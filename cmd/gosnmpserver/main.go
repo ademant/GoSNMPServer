@@ -6,8 +6,8 @@ import (
 
 	"github.com/gosnmp/gosnmp"
 	"github.com/sirupsen/logrus"
-	"github.com/slayercat/GoSNMPServer"
-	"github.com/slayercat/GoSNMPServer/mibImps"
+	"github.com/ademant/GoSNMPServer"
+	"github.com/ademant/GoSNMPServer/mibImps"
 	"github.com/urfave/cli/v2"
 )
 
